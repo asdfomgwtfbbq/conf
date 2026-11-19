@@ -1,0 +1,7 @@
+[manager]
+ratio = [0, 4, 3]
+show_hidden = true
+
+# Add more settings below as you need them:
+# sort_by = "natural"
+# sort_dir_first = true
